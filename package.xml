@@ -3,9 +3,9 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="todd@todo.todo">todd</maintainer>
-  <license>TODO: License declaration</license>
+  <description></description>
+  <maintainer email="">todd</maintainer>
+  <license></license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
